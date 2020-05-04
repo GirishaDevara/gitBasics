@@ -12,7 +12,6 @@ Welcome to Web Design and Development - APSSDC's documentation!
    
    Introduction to React
 
-
 Indices and tables
 ==================
 
