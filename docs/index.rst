@@ -10,8 +10,7 @@ Welcome to Web Design and Development - APSSDC's documentation!
    :maxdepth: 2
    :numbered:
    
-   Introduction to React
-
+   react
 
 
 Indices and tables
