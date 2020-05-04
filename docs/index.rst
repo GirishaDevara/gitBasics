@@ -11,10 +11,3 @@ Welcome to Web Design and Development - APSSDC's documentation!
    :numbered:
    
    Introduction to React
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
