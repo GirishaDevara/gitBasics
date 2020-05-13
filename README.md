@@ -1,3 +1,10 @@
+## django topics we will learn
+
+* Model creation Migrations, ORM,
+* Model Queries(Django shell)
+* superuser creation(admin part)
+* roles of the superuser
+
 **Prefaces**
 
 You should create project(employeemanagement) and app(details) for understanding.
