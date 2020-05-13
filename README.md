@@ -9,7 +9,7 @@
 
 ### Prefaces
 
-You should create project(employeemanagement) and app(details) for understanding.
+You should create project(simpleproject) and app(simpleapp) for understanding.
 
 here i am refering **YOUR_APP_NAME** means you should replace with your created django app name
 
