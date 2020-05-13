@@ -1,4 +1,4 @@
-## django topics we will learn
+## Django topics we will learn
 * ORM
 * Models
 * Using models
@@ -9,13 +9,13 @@
 
 ### Prefaces
 
-You should create project(simpleproject) and app(simpleapp) for understanding.
+* You should create project(simpleproject) and app(simpleapp) for understanding.
 
-here i am refering **YOUR_APP_NAME** means you should replace with your created django app name
+* Here i am refering **YOUR_APP_NAME** means you should replace with your created django app name
 
-and **YOUR_PROJECT_NAME** means you should replace with your created django project name
+* and **YOUR_PROJECT_NAME** means you should replace with your created django project name
 
-greater-than signs (>>>) signify a Python prompt.
+* greater-than signs (>>>) signify a Python prompt.
 
 
 ###  ORM(Object Relational Mapper)     
@@ -363,21 +363,6 @@ if we want to exit from shell use below command
 
 **end-step-5**
 
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
 ### Superuser and Role of superuser
 
 Giving all permissions to particular user(admin).
@@ -402,14 +387,12 @@ Enter your desired username and press enter
 
 ```
 Username: admin
-
 ```
 
 You will then be prompted for your desired email address:
 
 ```
 Email address: admin@example.com
-
 ```
 
 The final step is to enter your password. You will be asked to enter your password twice, the second time as a
@@ -420,7 +403,7 @@ Password: **********
 Password (again): *********
 ```
 
-**step-6**
+**end-step-6**
 
 finally you will get **Superuser created successfully** message.
 
@@ -432,10 +415,6 @@ python manage.py runserver
 
 Now, open a Web browser and go to “/admin/” on your local domain – e.g., http://127.0.0.1:8000/admin/
 
-
-```python
-
-```
 
 #### If you want to manage app from admin do step-7
 
@@ -452,9 +431,5 @@ from YOUR_APP_NAME.models import Register
 admin.site.register(Register)
 ```
 
-**step-8**
+**end-step-7**
 
-
-```python
-
-```
