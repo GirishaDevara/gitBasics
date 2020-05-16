@@ -174,8 +174,8 @@ class Register(models.Model):
     gender = models.CharField(max_length=10,choices=gender_vals )
     date_of_birth = models.DateField(null=True)
 
-	def __str__(self):
-		return str(firstName)
+  def __str__(self):
+    return str(firstName)
 
 ```
 
